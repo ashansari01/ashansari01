@@ -1,6 +1,4 @@
-
-
-<!--# Hi, I'm Ash!
+# Hi, I'm Ash!
 
 I'm a Second Year BSc IT student interested in programming and software development.
 
@@ -8,11 +6,11 @@ I'm currently learning Python and exploring different ways to turn ideas into wo
 
 ## Projects
 
-**Smart Python Calculator**
+### [Smart Python Calculator](https://github.com/ashansari01/smart-python-calculator)
 
 A calculator application built using Python as one of my first programming projects.
 
-**To-Do List App**
+### [To-Do List App](https://github.com/ashansari01/python-todo-list-app)
 
 A desktop application developed using Python and Tkinter to manage daily tasks.
 
@@ -43,16 +41,5 @@ Features include:
 I'm at the beginning of my development journey, and I'm using GitHub to document my learning, share my projects and track my progress.
 
 Thanks for stopping by!
-**ashansari01/ashansari01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
